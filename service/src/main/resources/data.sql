@@ -1,0 +1,11 @@
+delete from customer;
+insert into customer(name) values ('Josh');
+insert into customer(name) values ('Suranjana');
+insert into customer(name) values ('Adam');
+insert into customer(name) values ('Raghu');
+insert into customer(name) values ('Alan');
+insert into customer(name) values ('Jürgen');
+insert into customer(name) values ('Stéphane');
+insert into customer(name) values ('Madhura');
+insert into customer(name) values ('Olga');
+insert into customer(name) values ('Yuxin');
